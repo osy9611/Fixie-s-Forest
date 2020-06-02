@@ -1,0 +1,1228 @@
+fileFormatVersion: 2
+guid: 5336a2353ce9cc94e9cf26c7f15e831a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: pixie_power_0
+  - first:
+      213: 21300002
+    second: pixie_power_1
+  - first:
+      213: 21300004
+    second: pixie_power_2
+  - first:
+      213: 21300006
+    second: pixie_power_3
+  - first:
+      213: 21300008
+    second: pixie_power_4
+  - first:
+      213: 21300010
+    second: pixie_power_5
+  - first:
+      213: 21300012
+    second: pixie_power_6
+  - first:
+      213: 21300014
+    second: pixie_power_7
+  - first:
+      213: 21300016
+    second: pixie_power_8
+  - first:
+      213: 21300018
+    second: pixie_power_9
+  - first:
+      213: 21300020
+    second: pixie_power_10
+  - first:
+      213: 21300022
+    second: pixie_power_11
+  - first:
+      213: 21300024
+    second: pixie_power_12
+  - first:
+      213: 21300026
+    second: pixie_power_13
+  - first:
+      213: 21300028
+    second: pixie_power_14
+  - first:
+      213: 21300030
+    second: pixie_power_15
+  - first:
+      213: 21300032
+    second: pixie_power_16
+  - first:
+      213: 21300034
+    second: pixie_power_17
+  - first:
+      213: 21300036
+    second: pixie_power_18
+  - first:
+      213: 21300038
+    second: pixie_power_19
+  - first:
+      213: 21300040
+    second: pixie_power_20
+  - first:
+      213: 21300042
+    second: pixie_power_21
+  - first:
+      213: 21300044
+    second: pixie_power_22
+  - first:
+      213: 21300046
+    second: pixie_power_23
+  - first:
+      213: 21300048
+    second: pixie_power_24
+  - first:
+      213: 21300050
+    second: pixie_power_25
+  - first:
+      213: 21300052
+    second: pixie_power_26
+  - first:
+      213: 21300054
+    second: pixie_power_27
+  - first:
+      213: 21300056
+    second: pixie_power_28
+  - first:
+      213: 21300058
+    second: pixie_power_29
+  - first:
+      213: 21300060
+    second: pixie_power_30
+  - first:
+      213: 21300062
+    second: pixie_power_31
+  - first:
+      213: 21300064
+    second: pixie_power_32
+  - first:
+      213: 21300066
+    second: pixie_power_33
+  - first:
+      213: 21300068
+    second: pixie_power_34
+  - first:
+      213: 21300070
+    second: pixie_power_35
+  - first:
+      213: 21300072
+    second: pixie_power_36
+  - first:
+      213: 21300074
+    second: pixie_power_37
+  - first:
+      213: 21300076
+    second: pixie_power_38
+  - first:
+      213: 21300078
+    second: pixie_power_39
+  - first:
+      213: 21300080
+    second: pixie_power_40
+  - first:
+      213: 21300082
+    second: pixie_power_41
+  - first:
+      213: 21300084
+    second: pixie_power_42
+  - first:
+      213: 21300086
+    second: pixie_power_43
+  - first:
+      213: 21300088
+    second: pixie_power_44
+  - first:
+      213: 21300090
+    second: pixie_power_45
+  - first:
+      213: 21300092
+    second: pixie_power_46
+  - first:
+      213: 21300094
+    second: pixie_power_47
+  - first:
+      213: 21300096
+    second: pixie_power_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 90
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixie_power_0
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2461
+        width: 304
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c39f17d98c6638469ad17288530b7a6
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_1
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2461
+        width: 337
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce8dddf34d738248b6d3e2191dc4a43
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2462
+        width: 355
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035d233d38de87c4d98d0eaf7791a7cd
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_3
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 2461
+        width: 297
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9845d7681d80c4494a88eaff4f5879
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_4
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 2460
+        width: 296
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0cbb56c016984880188aa65d67147
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_5
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 2459
+        width: 303
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d2f0b7221f3141ab9ee5f5b107d2a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_6
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 2460
+        width: 297
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104024a0216714244ada9d8c08ed574c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2049
+        width: 308
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2b5230e696b794fa5cfc555a337b3e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_8
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2051
+        width: 331
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532ed551ff82fa64fa5acf884804c292
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_9
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2049
+        width: 357
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3f3592151558f4b9610e153105f54f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_10
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 2051
+        width: 303
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbab69203a36648bc36dda5c935e90
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_11
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 2053
+        width: 302
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4035f9b7821c8674a9fad039c6e57ac7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_12
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 2049
+        width: 302
+        height: 267
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d4489dfa5ae914c8828528215629d1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_13
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 2051
+        width: 299
+        height: 271
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f8626cab40c9b429abb00bd83ebad1
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1647
+        width: 307
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386aef302b95de742a7f39c1a1130ae1
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_15
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1639
+        width: 311
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56751632b59a7fb4ea211732180610e2
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_16
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1643
+        width: 304
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409a939b864c15743b8649035cc569ec
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_17
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1640
+        width: 306
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7b62897c8df3840824fd61dd651e1e
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_18
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 1640
+        width: 308
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5587ca2803b9c46a75105749d53a8e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_19
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1640
+        width: 299
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b28de5d5f1289468ef0e13602fa41a
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_20
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 1640
+        width: 304
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d426c60df4bc4704cbddf87ebba86bd4
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_21
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1229
+        width: 332
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067a474a491301948a8c8eaafa81da34
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_22
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1232
+        width: 362
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd5eb2098a570408f6d0e5b0680378
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_23
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1230
+        width: 388
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2759d563a02df954ba84ba8807c97f0f
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_24
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1230
+        width: 398
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2d41e53f60e4f428ee91a446532b72
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_25
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1230
+        width: 413
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08741190087714e48b70390447cea2fd
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_26
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 1230
+        width: 410
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c019287ee79e1d740bc3a8ddf4da4edf
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_27
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 1230
+        width: 391
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe71d00cb556d245955f1cbe25fffb7
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_28
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 822
+        width: 349
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f61999129264459589b15a0948cc6
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_29
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 819
+        width: 328
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a4aaa37b9d414bb79b4b20da32698
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_30
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 823
+        width: 321
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd0100a49417e47a966bee099c08c2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_31
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 820
+        width: 317
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9253bd1dd3c13e4a95ab5e753d1411b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_32
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 820
+        width: 310
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5530d1632b5920b42860ae95e3791cf1
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_33
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 820
+        width: 297
+        height: 394
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa1152cf30db45448ddb7c9f3e70048
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_34
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 820
+        width: 308
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ae223706be8c5409a0c4404a35ab88
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 418
+        width: 346
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e5553821fa584b8143cb398b7a95b
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_36
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 413
+        width: 300
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1da888e7f9f6d48ab24bcafaa96e83
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_37
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 411
+        width: 332
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f83a017b5d22f4e81628c74f737ffc
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_38
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 412
+        width: 392
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9407932e8eaa746be8f33b5b6da42b
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_39
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 410
+        width: 349
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b967a56782dd1a4b9409e4f8dbc13dc
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_40
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 410
+        width: 345
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ce3d86551eb124b854be634d9a7f9a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_41
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 410
+        width: 352
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82f0b08c48b5e74ea8b856bc2bd9038
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 366
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cd8fada5a34f9439afa9a28d6726b0
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_43
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 342
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d42a07fbe34f524a84923caaf331475
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_44
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 4
+        width: 346
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7935f619335d9a4385c91d5928be8a3
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixie_power_45
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f017ade93a37418449f2728ba576e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3019e53f63b47ca43bbe8b52eb9eed1c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

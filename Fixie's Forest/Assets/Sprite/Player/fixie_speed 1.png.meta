@@ -1,0 +1,1558 @@
+fileFormatVersion: 2
+guid: c0cf71e3904964f46b0609ca034e5cf9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: fixie_speed 1_0
+  - first:
+      213: 21300002
+    second: fixie_speed 1_1
+  - first:
+      213: 21300004
+    second: fixie_speed 1_2
+  - first:
+      213: 21300006
+    second: fixie_speed 1_3
+  - first:
+      213: 21300008
+    second: fixie_speed 1_4
+  - first:
+      213: 21300010
+    second: fixie_speed 1_5
+  - first:
+      213: 21300012
+    second: fixie_speed 1_6
+  - first:
+      213: 21300014
+    second: fixie_speed 1_7
+  - first:
+      213: 21300016
+    second: fixie_speed 1_8
+  - first:
+      213: 21300018
+    second: fixie_speed 1_9
+  - first:
+      213: 21300020
+    second: fixie_speed 1_10
+  - first:
+      213: 21300022
+    second: fixie_speed 1_11
+  - first:
+      213: 21300024
+    second: fixie_speed 1_12
+  - first:
+      213: 21300026
+    second: fixie_speed 1_13
+  - first:
+      213: 21300028
+    second: fixie_speed 1_14
+  - first:
+      213: 21300030
+    second: fixie_speed 1_15
+  - first:
+      213: 21300032
+    second: fixie_speed 1_16
+  - first:
+      213: 21300034
+    second: fixie_speed 1_17
+  - first:
+      213: 21300036
+    second: fixie_speed 1_18
+  - first:
+      213: 21300038
+    second: fixie_speed 1_19
+  - first:
+      213: 21300040
+    second: fixie_speed 1_20
+  - first:
+      213: 21300042
+    second: fixie_speed 1_21
+  - first:
+      213: 21300044
+    second: fixie_speed 1_22
+  - first:
+      213: 21300046
+    second: fixie_speed 1_23
+  - first:
+      213: 21300048
+    second: fixie_speed 1_24
+  - first:
+      213: 21300050
+    second: fixie_speed 1_25
+  - first:
+      213: 21300052
+    second: fixie_speed 1_26
+  - first:
+      213: 21300054
+    second: fixie_speed 1_27
+  - first:
+      213: 21300056
+    second: fixie_speed 1_28
+  - first:
+      213: 21300058
+    second: fixie_speed 1_29
+  - first:
+      213: 21300060
+    second: fixie_speed 1_30
+  - first:
+      213: 21300062
+    second: fixie_speed 1_31
+  - first:
+      213: 21300064
+    second: fixie_speed 1_32
+  - first:
+      213: 21300066
+    second: fixie_speed 1_33
+  - first:
+      213: 21300068
+    second: fixie_speed 1_34
+  - first:
+      213: 21300070
+    second: fixie_speed 1_35
+  - first:
+      213: 21300072
+    second: fixie_speed 1_36
+  - first:
+      213: 21300074
+    second: fixie_speed 1_37
+  - first:
+      213: 21300076
+    second: fixie_speed 1_38
+  - first:
+      213: 21300078
+    second: fixie_speed 1_39
+  - first:
+      213: 21300080
+    second: fixie_speed 1_40
+  - first:
+      213: 21300082
+    second: fixie_speed 1_41
+  - first:
+      213: 21300084
+    second: fixie_speed 1_42
+  - first:
+      213: 21300086
+    second: fixie_speed 1_43
+  - first:
+      213: 21300088
+    second: fixie_speed 1_44
+  - first:
+      213: 21300090
+    second: fixie_speed 1_45
+  - first:
+      213: 21300092
+    second: fixie_speed 1_46
+  - first:
+      213: 21300094
+    second: fixie_speed 1_47
+  - first:
+      213: 21300096
+    second: fixie_speed 1_48
+  - first:
+      213: 21300098
+    second: fixie_speed 1_49
+  - first:
+      213: 21300100
+    second: fixie_speed 1_50
+  - first:
+      213: 21300102
+    second: fixie_speed 1_51
+  - first:
+      213: 21300104
+    second: fixie_speed 1_52
+  - first:
+      213: 21300106
+    second: fixie_speed 1_53
+  - first:
+      213: 21300108
+    second: fixie_speed 1_54
+  - first:
+      213: 21300110
+    second: fixie_speed 1_55
+  - first:
+      213: 21300112
+    second: fixie_speed 1_56
+  - first:
+      213: 21300114
+    second: fixie_speed 1_57
+  - first:
+      213: 21300116
+    second: fixie_speed 1_58
+  - first:
+      213: 21300118
+    second: fixie_speed 1_59
+  - first:
+      213: 21300120
+    second: fixie_speed 1_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixie_speed 1_0
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3999
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db07cd01ac43a4db3e2619b0f6deed
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_1
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3999
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9dac37a40b54346865fc88459d0924
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_2
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3999
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a442fbd44c1b3d54fb7c80b72046e2a3
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3999.111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b779cfa315f79428509178eb80cdf6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3999
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e291e7d71f423f74b92f698fc79c9f35
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3999
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc51bfe400bffa2458add99733ce95ba
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3999
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a85e888e27c4e4e84db77d9fa07d6c
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d4b06c33b5bbf43968a658e8bcb5fc
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_8
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349f625a3d7c2bf4aad568aff730acce
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b461a4a0659890449dd852a3a0e7d1c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_10
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3500.111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54feaf0b9ae87dc44861dfe75340ca34
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_11
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3498
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44169600d83b6084c90f25907d382755
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d26c2e160218d4a9ca12945b606147
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bda015e6eac89468aad41101acd741
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_14
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3000
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1418e435576151a4686b0cca71b52c4d
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_15
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3001
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940cb807db1fe043bbc1d6b7e7091dc
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_16
+      rect:
+        serializedVersion: 2
+        x: 2006
+        y: 3006
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5741a00865bb8446950c11b02306d7a
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_17
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3001.111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdb73c860c683941a4b435b8f0d83e9
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_18
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 3013
+        width: 500
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 2}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e5e455e413cd741a00a9fca6bfb756
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3001
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57643a53a1309ec4cb64b048cdbaa83a
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3001
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a868baafa3472694787ff811dd2ded20
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_21
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2502
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf72fec55efc20c458334d719057114d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_22
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2502
+        width: 505
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ce54cdc7bc9b41a5e192f8e2a84c0
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_23
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2507
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725818a593935864f8ff5d77ee110fc2
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2502.111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5781cd8b989e9b43b17ad3b4e9a7337
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2511
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd249afc7963174d8669d458692f49a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2497
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f0d342faf65a40935ce5eff511f68
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2497
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8462d1e73539443449b4b2de56ec96d0
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2003
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f161742ccfc5f7a4c862c3b9df91cacd
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_29
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1998
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bceed2755fef704c836fd2ea9c5bc83
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_30
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2003
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb15ff54866df44098c6514ed4124e0
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2003.1111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f026db642c4f44845a947afd84ba5754
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2008
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8276aa17b69f5174795ac8b36f21d0c6
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2003
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987bb816771858e49920caceafc93347
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_34
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1998
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c6567fab203e409526a66acdb8944
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1499
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afedab38a49528640ae394362af0f4a2
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_36
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1495
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760ac7f8501e3e64e94a57fbd6da2ac0
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_37
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 1504
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7cb28049ae0bb41a12763fef0b098a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_38
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1504.1111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb689e46f646de84fa3e30bb2d23dec7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_39
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1509
+        width: 494
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a2c7b0e447bae4bb25d8072a3b55f8
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1509
+        width: 507
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba17a645dd08494e94a898c31ad17d0
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef078ff1ddadca46819089a882ff182
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1001
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6f57c4027d99a4c93f923787df2497
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_43
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1001
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf34433a1028f7e48aa07014d7f8c073
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_44
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1005
+        width: 503
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d180f12750ce20d4ab1e158b9105d953
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1005.1111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc02b392d7bb0ee43bfd667eb55f51df
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_46
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1011
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844adbfa7a4409140a915a624145bd06
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_47
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1012
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd257ee85f751740a466f0c60f2de22
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce496b8aa55fd34b879ebad37dd5a7a
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_49
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 501
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb0ff5ef89383840a2cff6277b0d0aa
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_50
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 502
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04fa402fddaeb9438d6c666f4cdecda
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_51
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 505
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168caf545c12244ebfca0e81f60fc37
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_52
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 506.1111
+        width: 500
+        height: 499.8889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1028ea94544a0347bef551671fbe3eb
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 506
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16040adea4cdf5f4fa03f0dd2b030dd6
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 501
+        width: 500
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a0aec37d9b71345b349125954fa624
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5172058137c0002418e638caa265127e
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_57
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94961635f31eaa14f94cdf1ef992bfde
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_58
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0553b2634cc844b84e4c0465d0ac2
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_59
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db13a9063b5a4c40a65ac7c608f7192
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixie_speed 1_60
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dfe4e9b704747489f15680fc9e7c7b
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3c2abfa79f620e04185168f0cbe4cd08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainTitle.unity
+    guid: 1c3e8bd6851dc86439b756fa7b843946
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage1.unity
+    guid: cd62700f25d331c4ebbb9953bae5260f
+  - enabled: 1
+    path: Assets/Scenes/SelectStage.unity
+    guid: 3547f8df374bedc4687d8349f1ad41c0
+  - enabled: 1
+    path: Assets/Scenes/Stage/Tutorial.unity
+    guid: 4cf17f510d3a51f49aa8b202415bc8c5
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage2.unity
+    guid: 8cc377287a492a34e8aa2bd39f273390
+  - enabled: 1
+    path: Assets/Scenes/Stage/Stage3.unity
+    guid: e22efca745fdb7c49a16ef81756aff0a
+  - enabled: 1
+    path: Assets/Scenes/CutScene/SelectCutScene.unity
+    guid: c930bdf96de3f334ea7936f2e4f1a5e4
+  - enabled: 1
+    path: Assets/Scenes/CutScene/StartCutScene.unity
+    guid: 312b013d9e5be264b98f230159329f7c
+  - enabled: 1
+    path: Assets/Scenes/CutScene/EndCutScene.unity
+    guid: 987ba64502b010346873f144b078b1d0
+  - enabled: 1
+    path: Assets/Scenes/CutScene/Stage1Clear.unity
+    guid: 9352b1d986927ee4d987878a28b3b02f
+  - enabled: 1
+    path: Assets/Scenes/CutScene/EndingCutScene.unity
+    guid: 0b359e8f5afd30e4981d37066bf38413
+  - enabled: 1
+    path: Assets/Scenes/CutScene/Stage2Clear.unity
+    guid: e2d32f11d12bff941b9310d981646d29
+  - enabled: 1
+    path: Assets/Scenes/CutScene/StartCutScene(Tuto).unity
+    guid: dfeac9c4932aa5647958fdf7346c5f3a
+  m_configObjects: {}
